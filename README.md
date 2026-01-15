@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>Building clean, responsive frontend applications with React and strengthening my problem-solving skills through DSA.<br><br>👯 I’m looking to collaborate on  <br>Open-source projects and beginner-friendly full-stack or frontend applications.<br><br>🤝 I’m looking for help with  <br>Advanced React concepts, backend development (Node.js, Express, MongoDB), and improving competitive programming performance.<br><br>🌱 I’m currently learning  <br>Full-stack web development and Data Structures & Algorithms.<br><br>💬 Ask me about  <br>JavaScript, React, Tailwind CSS, Git/GitHub, and DSA fundamentals.<br><br>⚡ Fun fact  <br>Every bug teaches me something new 😄<br>
+Frontend developer focused on building clean, responsive apps with React while sharpening DSA skills.
+Learning full-stack development (Node.js, Express, MongoDB) and exploring advanced React concepts.
+Open to open-source collaboration—every bug is a lesson 😄
 
 
 ## 🌐 Socials:
